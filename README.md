@@ -1,5 +1,9 @@
 # Potential cube map bug
 
+Present on both Unity versions `2020.1.0b6` & `2019.3.0f3`. I did not test other versions.
+
+## The Issue
+
 Given this scene...
 
 ![0](0scene.png)
