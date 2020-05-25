@@ -2,6 +2,8 @@
 
 Present on both Unity versions `2020.1.0b6` & `2019.3.0f3`. I did not test other versions.
 
+> EDIT: Confirmed. Dup of https://issuetracker.unity3d.com/issues/rendertexture-is-flipped-upside-down-when-using-rendertexturedescriptor
+
 ## The Issue
 
 Given this scene...
